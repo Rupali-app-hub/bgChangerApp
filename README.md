@@ -1,7 +1,6 @@
 ## This code is for changing the Background color while clicking the button
 ![Uploading Screenshot 2023-12-22 at 10.24.18 PM.png…]()
 
-
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
