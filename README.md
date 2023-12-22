@@ -1,4 +1,4 @@
-## This code is for changing the Background color while clicking the button
+## This code is for changing the random Background color while clicking the button
 ![Uploading Screenshot 2023-12-22 at 10.24.18 PM.png…]()
 
 ## Step 1: Start the Metro Server
