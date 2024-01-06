@@ -1,5 +1,6 @@
 ## This code is for changing the random Background color while clicking the button
-![Uploading Screenshot 2023-12-22 at 10.24.18 PM.png…]()
+
+<img width="341" alt="Screenshot 2023-12-22 at 10 24 18 PM" src="https://github.com/Rupali-app-hub/bgChangerApp/assets/152596991/ac049481-dd48-43d4-8e32-688f4651d485">
 
 ## Step 1: Start the Metro Server
 
